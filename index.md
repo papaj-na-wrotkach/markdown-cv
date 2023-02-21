@@ -1,91 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Jonatana Czarnieckiego
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jonatan Czarniecki
+Uczeń technikum w klasie programistycznej 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="czarniecki.jonatan@gmail.com">czarniecki.jonatan@gmail.com</a>
 </div>
 
 
-## Currently
+## Obecnie
 
-Standing on the shoulders of giants
+Uczeń technikum
 
-### Specialized in
+### Wyspecjalizowany w
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- obsłudze systemów operacyjnych
+  - GNU/Linux (Manjaro Linux, Debian, Ubuntu, Kali Linux)
+  - Microsoft Windows (Insider Preview)
+- posługiwaniu się narzędziami programistycznymi
+  - IntelliJ IDEA i inne oparte o tą samą technologię
+  - Neovim
+  - Visual Studio
+  - Visual Studio Code
+  - Git
+  - GitHub, GitLab
+  - Docker
+- pisaniu kodu w językach programistycznych
+  - C++
+  - C#
+  - TypeScript i JavaScript (Node.js i przeglądarki internetowe)
+  - Python
+  - języki powłoki
+    - bash
+    - zsh
+  - w mniejszym stopniu:
+    - Java
+    - Kotlin (obecnie nauka)
+    - PowerShell
+- tworzeniu stron i aplikacji internetowych
+  - prosty HTML z CSS
+  - serwery www
+- zarządzaniu bazami danych MySQL, NoSQL:
+  - Oracle MySQL
+  - MariaDB
+  - SQLite
+  - Apache Cassandra
 
+### Zainteresowania
 
-### Research interests
+produkcja, granie i słuchanie muzyki; kultura i popkultura Japonii; mechanika kwantowa
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Edukacja
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2020 - teraz`
+__EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie Wrocław)__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2023 -->
 
 
