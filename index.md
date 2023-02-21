@@ -4,7 +4,7 @@ title: CV Jonatana Czarnieckiego
 ---
 # Jonatan Czarniecki
 Uczeń technikum w klasie programistycznej 
-
+![image](https://avatars.githubusercontent.com/u/29522138)
 <div id="webaddress">
   <a href="czarniecki.jonatan@gmail.com">czarniecki.jonatan@gmail.com</a>
 </div>
@@ -50,7 +50,10 @@ Uczeń technikum
 
 ### Zainteresowania
 
-produkcja, granie i słuchanie muzyki; kultura i popkultura Japonii; mechanika kwantowa
+- produkcja, granie i słuchanie muzyki
+- kultura i popkultura Japonii
+- tworzenie i granie w gry komputerowe
+- mechanika kwantowa
 
 ## Edukacja
 
