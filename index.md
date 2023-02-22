@@ -86,7 +86,7 @@ darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
 - tworzenie i granie w gry komputerowe
 - mechanika kwantowa
 
-<p id="ghbutton">
+<span id="ghbutton">
   <a href="https://github.com/elipapa/markdown-cv" class="github-corner">
     <svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;">
       <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -107,8 +107,11 @@ darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
     .github-corner:hover .octo-arm { animation:none }
     .github-corner .octo-arm { animation:octocat-wave 560ms ease-in-out }
   }
+  
+  svg:not(:root) { overflow: hidden }
+  
   </style>
-</p>
+</span>
 
 <!-- ### Footer
 
