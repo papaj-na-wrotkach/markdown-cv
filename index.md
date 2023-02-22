@@ -6,8 +6,8 @@ title: CV Jonatana Czarnieckiego
 Uczeń technikum w klasie programistycznej 
 
 <div id="webaddress">
-  <a href="czarniecki.jonatan@gmail.com">czarniecki.jonatan@gmail.com</a>
-  <a href="tel:+48-729-995-484">+48 729 995 484</a>
+  <a href="czarniecki.jonatan@gmail.com">czarniecki.jonatan@gmail.com</a><br/>
+  Nr Tel. Komórkowego: <a href="tel:+48-729-995-484">+48 729 995 484</a>
 </div>
 
 <img src="https://avatars.githubusercontent.com/u/29522138" alt="Moje zdjęcie" />
@@ -16,7 +16,7 @@ Uczeń technikum w klasie programistycznej
 
 Uczeń technikum
 
-# Edukacja
+## Edukacja
 `2018 - 2020` __XIV Liceum Ogólnokształcące (porzucona ścieżka nauki)__
 `2020 - teraz` __EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie Wrocław)__
 
@@ -64,10 +64,10 @@ Uczeń technikum
 - Japoński
 
 ## Ukończone kursy i podobne projekty
-- `2019` IV Edycja Szkoły Myślenia, Wydział Matematyki i Informatyki UWr
-- `2022` darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
+- `2019` __IV Edycja Szkoły Myślenia, Wydział Matematyki i Informatyki UWr__
+- `2022` __darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)__
 
-# Zainteresowania
+## Zainteresowania
 
 - produkcja, granie i słuchanie muzyki
 - kultura i popkultura Japonii
