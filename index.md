@@ -17,6 +17,7 @@ Uczeń technikum w klasie programistycznej
 Uczeń technikum
 
 ## Edukacja
+
 `2018 - 2020` __XIV Liceum Ogólnokształcące (porzucona ścieżka nauki)__
 
 `2020 - teraz` __EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie Wrocław)__
@@ -65,8 +66,12 @@ Uczeń technikum
 - Japoński
 
 ## Ukończone kursy i podobne projekty
-`2019` IV Edycja Szkoły Myślenia, Wydział Matematyki i Informatyki UWr
-`2022` darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
+
+`2019`
+IV Edycja Szkoły Myślenia, Wydział Matematyki i Informatyki UWr
+
+`2022`
+darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
 
 ## Zainteresowania
 
