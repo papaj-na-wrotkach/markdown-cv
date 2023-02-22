@@ -26,7 +26,7 @@ Uczeń w **trzeciej** klasie technikum
 
 <!-- `2018 - 2020` __XIV Liceum Ogólnokształcące (porzucona ścieżka nauki)__ -->
 
-`2020 - teraz` __EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie Wrocław)__
+`2020 - teraz` __EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie), Wrocław__
 
 ## Wyspecjalizowany w
 
