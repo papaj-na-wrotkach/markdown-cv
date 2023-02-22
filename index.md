@@ -6,7 +6,7 @@ title: CV Jonatana Czarnieckiego
 Uczeń technikum w klasie programistycznej 
 
 <div id="webaddress">
-  <img src=https://avatars.githubusercontent.com/u/29522138 alt="Moje zdjęcie"/>
+  <img src="https://avatars.githubusercontent.com/u/29522138" alt="Moje zdjęcie"/>
 </div>
 <div id="webaddress">
   <a href="czarniecki.jonatan@gmail.com">czarniecki.jonatan@gmail.com</a>
