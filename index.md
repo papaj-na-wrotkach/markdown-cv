@@ -14,7 +14,7 @@ Uczeń technikum w klasie programistycznej
 
 ## Obecnie
 
-Uczeń technikum
+Uczeń w **trzeciej** klasie technikum 
 
 ## Edukacja
 
