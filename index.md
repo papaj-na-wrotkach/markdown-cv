@@ -24,7 +24,7 @@ Uczeń w **trzeciej** klasie technikum
 
 ## Edukacja
 
-`2018 - 2020` __XIV Liceum Ogólnokształcące (porzucona ścieżka nauki)__
+<!-- `2018 - 2020` __XIV Liceum Ogólnokształcące (porzucona ścieżka nauki)__ -->
 
 `2020 - teraz` __EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie Wrocław)__
 
@@ -51,7 +51,7 @@ Uczeń w **trzeciej** klasie technikum
 - języki powłoki
   - bash
   - zsh
-- w mniejszym stopniu:
+- w mniejszym stopniu
   - Java
   - Kotlin (obecnie nauka)
   - PowerShell
@@ -95,6 +95,7 @@ darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
     </svg>
   </a>
 </span>
+
 <style>
 .github-corner:hover .octo-arm { animation:octocat-wave 560ms ease-in-out }
 
