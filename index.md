@@ -6,52 +6,54 @@ title: CV Jonatana Czarnieckiego
 Uczeń technikum w klasie programistycznej 
 
 <div id="webaddress">
-  <img src="https://avatars.githubusercontent.com/u/29522138" alt="Moje zdjęcie"/>
-</div>
-<div id="webaddress">
   <a href="czarniecki.jonatan@gmail.com">czarniecki.jonatan@gmail.com</a>
 </div>
 
+<img src="https://avatars.githubusercontent.com/u/29522138" alt="Moje zdjęcie" />
 
-## Obecnie
+# Obecnie
 
 Uczeń technikum
 
-### Wyspecjalizowany w
+## Wyspecjalizowany w
 
-- obsłudze systemów operacyjnych
-  - GNU/Linux (Manjaro Linux, Debian, Ubuntu, Kali Linux)
-  - Microsoft Windows (Insider Preview)
-- posługiwaniu się narzędziami programistycznymi
-  - IntelliJ IDEA i inne oparte o tą samą technologię
-  - Neovim
-  - Visual Studio
-  - Visual Studio Code
-  - Git
-  - GitHub, GitLab
-  - Docker
-- pisaniu kodu w językach programistycznych
-  - C++
-  - C#
-  - TypeScript i JavaScript (Node.js i przeglądarki internetowe)
-  - Python
-  - języki powłoki
-    - bash
-    - zsh
-  - w mniejszym stopniu:
-    - Java
-    - Kotlin (obecnie nauka)
-    - PowerShell
-- tworzeniu stron i aplikacji internetowych
-  - prosty HTML z CSS
-  - serwery www
-- zarządzaniu bazami danych MySQL, NoSQL:
-  - Oracle MySQL
-  - MariaDB
-  - SQLite
-  - Apache Cassandra
+### obsłudze systemów operacyjnych
+- GNU/Linux (Manjaro Linux, Debian, Ubuntu, Kali Linux)
+- Microsoft Windows (Insider Preview)
 
-### Zainteresowania
+### posługiwaniu się narzędziami programistycznymi
+- IntelliJ IDEA i inne oparte o tą samą technologię
+- Neovim
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub, GitLab
+- Docker
+
+### pisaniu programów komputerowych w
+- C++
+- C#
+- TypeScript i JavaScript (Node.js i przeglądarki internetowe)
+- Python
+- języki powłoki
+  - bash
+  - zsh
+- w mniejszym stopniu:
+  - Java
+  - Kotlin (obecnie nauka)
+  - PowerShell
+ 
+### tworzeniu stron i aplikacji internetowych
+- prosty HTML z CSS
+- serwery WWW, REST API
+
+### zarządzaniu bazami danych MySQL, NoSQL
+- Oracle MySQL
+- MariaDB
+- SQLite
+- Apache Cassandra
+
+## Zainteresowania
 
 - produkcja, granie i słuchanie muzyki
 - kultura i popkultura Japonii
