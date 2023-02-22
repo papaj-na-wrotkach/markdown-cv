@@ -7,13 +7,18 @@ Uczeń technikum w klasie programistycznej
 
 <div id="webaddress">
   <a href="czarniecki.jonatan@gmail.com">czarniecki.jonatan@gmail.com</a>
+  <a href="tel:+48-729-995-484">+48 729 995 484</a>
 </div>
 
 <img src="https://avatars.githubusercontent.com/u/29522138" alt="Moje zdjęcie" />
 
-# Obecnie
+## Obecnie
 
 Uczeń technikum
+
+# Edukacja
+`2018 - 2020` __XIV Liceum Ogólnokształcące (porzucona ścieżka nauki)__
+`2020 - teraz` __EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie Wrocław)__
 
 ## Wyspecjalizowany w
 
@@ -53,20 +58,22 @@ Uczeń technikum
 - SQLite
 - Apache Cassandra
 
-## Zainteresowania
+## Języki obce
+- Angielski
+- Niemiecki
+- Japoński
+
+## Ukończone kursy i podobne projekty
+- `2019` IV Edycja Szkoły Myślenia, Wydział Matematyki i Informatyki UWr
+- `2022` darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
+
+# Zainteresowania
 
 - produkcja, granie i słuchanie muzyki
 - kultura i popkultura Japonii
 - tworzenie i granie w gry komputerowe
 - mechanika kwantowa
 
-## Edukacja
-
-`2020 - teraz`
-__EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie Wrocław)__
-
 <!-- ### Footer
 
 Last updated: Feb 2023 -->
-
-
