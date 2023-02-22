@@ -28,8 +28,8 @@ Uczeń w **trzeciej** klasie technikum
 - GNU/Linux (Manjaro Linux, Debian, Ubuntu, Kali Linux)
 - Microsoft Windows (Insider Preview)
 
-### posługiwaniu się narzędziami programistycznymi
-- IntelliJ IDEA i inne oparte o tą samą technologię
+### posługiwaniu się narzędziami
+- IntelliJ IDEA i inne IDE oparte o tą samą technologię
 - Neovim
 - Visual Studio
 - Visual Studio Code
@@ -37,7 +37,7 @@ Uczeń w **trzeciej** klasie technikum
 - GitHub, GitLab
 - Docker
 
-### pisaniu programów komputerowych w
+### programowaniu
 - C++
 - C#
 - TypeScript i JavaScript (Node.js i przeglądarki internetowe)
@@ -50,11 +50,11 @@ Uczeń w **trzeciej** klasie technikum
   - Kotlin (obecnie nauka)
   - PowerShell
  
-### tworzeniu stron i aplikacji internetowych
-- prosty HTML z CSS
+### tworzeniu stron i apl. internetowych
+- proste stronmy w HTML z CSS
 - serwery WWW, REST API
 
-### zarządzaniu bazami danych MySQL, NoSQL
+### zarządzaniu bazami danych
 - Oracle MySQL
 - MariaDB
 - SQLite
@@ -65,7 +65,7 @@ Uczeń w **trzeciej** klasie technikum
 - Niemiecki
 - Japoński
 
-## Ukończone kursy i podobne projekty
+## Ukończone kursy i projekty
 
 `2019`
 IV Edycja Szkoły Myślenia, Wydział Matematyki i Informatyki UWr
