@@ -24,11 +24,11 @@ Uczeń w **trzeciej** klasie technikum
 
 ## Edukacja
 
-<!-- `2018 - 2020` __XIV Liceum Ogólnokształcące (porzucona ścieżka nauki)__ -->
+`2018 - 2020` __XIV Liceum Ogólnokształcące im. Polonii Belgijskiej we Wrocławiu (porzucona ścieżka nauki)__
 
-`2020 - teraz` __EZN - Elektroniczne Zakłady Naukowe (aka. Technikum nr 10 im. Fryderyka Joliot-Curie), Wrocław__
+`2020 - teraz` __Technikum nr 10 im. Fryderyka Joliot-Curie w Elektronicznych Zakładach Naukowych, we Wrocławiu__
 
-## Wyspecjalizowany w
+## Wyspecjalizowany w (lecz nie ograniczony do)
 
 ### obsłudze systemów operacyjnych
 - GNU/Linux (Manjaro Linux, Debian, Ubuntu, Kali Linux)
@@ -84,6 +84,7 @@ darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
 - produkcja, granie i słuchanie muzyki
 - kultura i popkultura Japonii
 - tworzenie i granie w gry komputerowe
+- informatyka i programowanie
 - mechanika kwantowa
 
 <span id="ghbutton">
