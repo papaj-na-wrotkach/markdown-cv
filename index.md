@@ -16,7 +16,7 @@ Uczeń technikum w klasie programistycznej
 
 <br>
 
-<img src="https://via.placeholder.com/150/200" alt="Moje zdjęcie" />
+<img src="https://via.placeholder.com/150x200" alt="Moje zdjęcie" />
 
 ## Obecnie
 
