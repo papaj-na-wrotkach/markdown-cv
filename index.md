@@ -20,7 +20,7 @@ Uczeń technikum w klasie programistycznej
 
 ## Obecnie
 
-Uczeń w **trzeciej** klasie technikum 
+Uczeń **trzeciej** klasy technikum elektronicznego (specjalizacja **technik programista**)
 
 ## Edukacja
 
@@ -53,7 +53,7 @@ Uczeń w **trzeciej** klasie technikum
   - zsh
 - w mniejszym stopniu
   - Java
-  - Kotlin (obecnie nauka)
+  - Kotlin (w trakcie nauki)
   - PowerShell
  
 ### tworzeniu stron internetowych
@@ -64,12 +64,13 @@ Uczeń w **trzeciej** klasie technikum
 - Oracle MySQL
 - MariaDB
 - SQLite
+- PostgreSQL
 - Apache Cassandra
 
 ## Języki obce
 - Angielski
-- Niemiecki
-- Japoński
+- Niemiecki (w trakcie nauki)
+- Japoński (w trakcie nauki)
 
 ## Ukończone kursy i projekty
 
@@ -78,6 +79,9 @@ IV Edycja Szkoły Myślenia, Wydział Matematyki i Informatyki UWr
 
 `2022`
 darmowy dwunastogodzinny [kurs React](https://scrimba.com/learn/learnreact)
+
+`2023`
+Bakcyl Programowania 2022/2023
 
 ## Zainteresowania
 
@@ -116,4 +120,4 @@ svg:not(:root) { overflow: hidden }
 
 <!-- ### Footer
 
-Last updated: Feb 2023 -->
+Last updated: Jun 2023 -->
