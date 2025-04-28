@@ -6,15 +6,23 @@ title: Jonatan Czarniecki
 code {
   font-size: 1em;
 }
+
 h1 {
   font-size: 2em;
 }
+
 h2, h3, h4 {
   font-size: 1.2em;
 }
 
 li > ul {
   margin-bottom: 0.25em;
+}
+
+@media print {
+  a {
+    text-decoration: underline;
+  }
 }
 
 #webaddress {
@@ -25,7 +33,7 @@ li > ul {
 }
 </style>
 
-<img src="media/photo.jpg" alt="Jonatan Czarniecki" height=150 width=150 style="border-radius: 50%; object-fit: contain">
+<img src="https://avatar.iran.liara.run/public/boy" alt="Jonatan Czarniecki" height=150 width=150 style="border-radius: 50%; object-fit: contain">
 
 # Jonatan Czarniecki
 Technik Programista | Software Developer
@@ -100,7 +108,7 @@ __Cybertron Dolny Śląsk__ Cybersecurity Competition
 `2024`
 __Cisco Networking Academy: Networking Basics__
 - Completed course covering fundamental networking principles as part of European CyberRace 2024.
-- Credly Badge: [Verification Link](https://www.credly.com/badges/86eb3d63-7c3e-4d41-a18b-5d1a1fa532ac/public_url)
+- Earned a [Credly Badge](https://www.credly.com/badges/86eb3d63-7c3e-4d41-a18b-5d1a1fa532ac/public_url)
 
 ### Languages
 - **Polish:** Native
