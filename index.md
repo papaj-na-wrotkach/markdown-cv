@@ -29,7 +29,7 @@ li > ul {
   font-size: 1em;
   color: #777;
   /* workaround for github.com/elipapa/markdown-cv/issues/133 */
-  width: 65%; 
+  width: 65%;
 }
 </style>
 
@@ -47,15 +47,14 @@ Technik Programista | Software Developer
 
 <br>
 
-- A graduate of **Elektroniczne Zakłady Naukowe (EZN)**
-- Obtained a **software engineering** technical degree **(Technik Programista diploma)**.
+- Graduate of **Elektroniczne Zakłady Naukowe** (EZN) holding the **Technik Programista diploma**.
 - Skilled in software development with a meticulous and open-minded approach to solving problems.
-- Ready to ask for help when necessary.
-- Eager to utilize own skills, learn new things and gain experience.
+- Ready to seek help when necessary.
+- Eager to apply and expand technical skills in a professional environment.
 
 ### Key Skill Areas
 
-- **Object Oriented and Scripting Programming Languages:** C++, Python, Rust, C#/.NET, JavaScript, TypeScript, Java, Kotlin, Bash, PowerShell
+- **Object Oriented and Scripting Programming Languages:** C++, Python, Rust, .NET & C#, JavaScript, TypeScript, Java, Kotlin, Bash, PowerShell
 - **DevOps & Tools:** Linux (Arch/Debian-based), Git, Docker, Docker Swarm, Podman, CI/CD Concepts with GitHub Actions, JetBrains IDEs, Visual Studio, VS Code, Neovim
 - **Web Technologies:** HTML, CSS, JavaScript, PHP, React, SolidJS, REST APIs, GraphQL
 - **Databases:** SQL (MySQL, PostgreSQL, SQLite), NoSQL (Apache Cassandra)
@@ -67,9 +66,9 @@ Technik Programista | Software Developer
 - **Software Development**
 - **DevOps & IT Infrastructure** (Servers, Containers, Cloud Technologies)
 - **Artificial Intelligence**, Machine Learning, and Large Language Models
-- Network Engineering & Security 
+- Network Engineering & Security
 - Japanese Culture & Language
-- Gaming, Hobbyist Game Development and Music Production 
+- Hobbyist Game Development & Music Production
 
 ## Education
 
@@ -97,7 +96,7 @@ __[React Development Course](https://scrimba.com/learn/learnreact)__ (Scrimba Pl
 
 `2023`
 __Nokia "Bakcyl Programowania" C++ Course (Advanced)__
-- Participated in a group C++ project (top 2 contributor); the project is available on [GitHub](https://github.com/mnurzyns/ParkSpaceSharing)
+- Participated in a group C++ project (top 2 contributor); project available on [GitHub](https://github.com/mnurzyns/ParkSpaceSharing)
 - Awarded **"Golden Ticket"** recognizing significant project contributions and engagement, **including an invitation for an internship interview at Nokia**.
 
 `2024`
@@ -120,11 +119,13 @@ __Cisco Networking Academy: Networking Basics__
 `2023`
 __Mikrozet Sp. z o.o.__
 - Computer and IT Services
+- Assistance with computer hardware setup and repair services
 - Mandatory internship as part of the technical school curriculum
 
 `2023`
 __Soft Power Sp. z o.o.__
 - Software Development
+- Collaborated on a Java project
 - Mandatory internship as part of the technical school curriculum
 
 <!-- taken from github.com/tholman/github-corners -->
