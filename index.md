@@ -94,6 +94,10 @@ __"Szkoła Myślenia" Project (4th Ed.)__, University of Wrocław
 __[React Development Course](https://scrimba.com/learn/learnreact)__ (Scrimba Platform)
 - Completed a 12-hour online React course.
 
+`2022`
+__Audio engineering course__
+- Completed a course on signal wiring, mixing consoles, loudspeakers and their types, audio systems tuning, tone shaping, Dante systems and immersive sound.
+
 `2023`
 __Nokia "Bakcyl Programowania" C++ Course (Advanced)__
 - Participated in a group C++ project (top 2 contributor); project available on [GitHub](https://github.com/mnurzyns/ParkSpaceSharing)
