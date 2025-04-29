@@ -118,15 +118,15 @@ __Cisco Networking Academy: Networking Basics__
 
 `2023`
 __Mikrozet Sp. z o.o.__
+- Mandatory internship as part of the technical school curriculum
 - Computer and IT Services
 - Assistance with computer hardware setup and repair services
-- Mandatory internship as part of the technical school curriculum
 
 `2023`
 __Soft Power Sp. z o.o.__
+- Mandatory internship as part of the technical school curriculum
 - Software Development
 - Collaborated on a Java project
-- Mandatory internship as part of the technical school curriculum
 
 <!-- taken from github.com/tholman/github-corners -->
 
